@@ -1,2 +1,5 @@
-# Love-Data-Week-SettingThePace
-Repository for Love Data Week 2026/2027 College Womens Basketball. NCAA women's basketball analytics project examining how matchup-specific pace and tempo control affect team performance.
+# Setting the Pace
+
+### Should You Play Your Game — or Theirs?
+
+NCAA Women's Basketball Analytics | Purdue Love Data Week 2027
