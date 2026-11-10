@@ -1,0 +1,18 @@
+# Competition dataset
+data/raw/
+
+# Generated/processed data
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv/
